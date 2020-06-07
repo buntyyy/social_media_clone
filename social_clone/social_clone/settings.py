@@ -25,7 +25,7 @@ SECRET_KEY = '3k(vgl#5gm=1-8#khs1s9mc)%cc4&_#q62&pcq0^$&06n$$(m5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['buntyyy.pythonanywhere.com']
 
 
 # Application definition
